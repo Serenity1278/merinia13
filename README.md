@@ -10,3 +10,12 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 
 <b>Hoe kan je aanpassingen aan jouw pagina maken en hoe zorg je er voor dat die op het web gepubliceerd worden?</b>
 <p>Door een layout te schetsen, op basis van mijn intresses en als ik een lijst heb van dingen die ik in mijn tuin wil hebben. </p>
+
+<h2>Donderdag 12 november 2026</h2>
+<b>Vscodium</b>
+<p>Na VScodium geinstaleert te hebben bleek het 4 seconden te duren totdat ik 1 actie kon uitvoeren, het is mij gelukt om de extentie: "Prettier - Code formatter" te instaleren. </p>
+<video width="400" controls>
+  <source src="Schermopname 2026-11-12 om 21.17.06.mov" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
