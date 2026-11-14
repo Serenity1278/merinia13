@@ -1,7 +1,7 @@
 _Kopieer en plak hier jouw README.md uit sprint 1._
 <h2>Maandag 8 november 2026 - checkout</h2>
 <b>Wat is een source hosting platform is en voor welke heb jij gekozen?</b>
-<p> ....
+<p> 
 </p>
 
 <b>Welke domeinnaam heb jij gekozen en hoe heb je die gekoppeld aan jouw pagina?</b>
@@ -13,9 +13,4 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 
 <h2>Donderdag 12 november 2026</h2>
 <b>Vscodium</b>
-<p>Na VScodium geinstaleert te hebben bleek het 4 seconden te duren totdat ik 1 actie kon uitvoeren, het is mij gelukt om de extentie: "Prettier - Code formatter" te instaleren. </p>
-<video width="400" controls>
-  <source src="Schermopname 2026-11-12 om 21.17.06.mov" type="video/mp4">
-  
-  Your browser does not support HTML video.
-</video>
+<p>Na VScodium geinstaleert te hebben bleek het 4 seconden te duren totdat ik 1 actie kon uitvoeren, het is mij gelukt om de extentie: "Prettier - Code formatter" te instaleren. Na mijn ouders om hulp gevraagt te hebben bleek het dat ik de verkeerde versie had gedownload en na de juiste varant </p>
