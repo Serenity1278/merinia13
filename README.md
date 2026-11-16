@@ -14,3 +14,18 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 <h2>Donderdag 12 november 2026</h2>
 <b>Vscodium</b>
 <p>Na VScodium geinstaleert te hebben bleek het 4 seconden te duren totdat ik 1 actie kon uitvoeren, het is mij gelukt om de extentie: "Prettier - Code formatter" te instaleren. Na mijn ouders om hulp gevraagt te hebben bleek het dat ik de verkeerde versie had gedownload en na de juiste varant </p>
+
+<h2>Vrijdag 13 november- checkout</h2>
+<b>Schetsen</b>
+<p>Vandaag hebben we lijnen en vierkanten geschetst, om zo beter te worden in concepten schetsen. Samen met mijn groepje hebben we mijn schetsen beoordeeld voor een top 5.</p>
+<img> ....
+<b>Cocepten website</b>
+<p>Ik heb een schets gemaakt die gebaseert is op mijn favoriete serie. Daarnaast had ik gekeken of ik misschien nog iets van ander media die ik leuk vond kon toevoegen.</p>
+<img>.....
+
+<h2>maandag 16 november</h2>
+<b></b>
+<p></p>
+
+<b> </b>
+<p></p>
