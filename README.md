@@ -18,14 +18,16 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 <h2>Vrijdag 13 november- checkout</h2>
 <b>Schetsen</b>
 <p>Vandaag hebben we lijnen en vierkanten geschetst, om zo beter te worden in concepten schetsen. Samen met mijn groepje hebben we mijn schetsen beoordeeld voor een top 5.</p>
-<img> ....
+<img src="" ....
 <b>Cocepten website</b>
 <p>Ik heb een schets gemaakt die gebaseert is op mijn favoriete serie. Daarnaast had ik gekeken of ik misschien nog iets van ander media die ik leuk vond kon toevoegen.</p>
-<img>.....
+<img src="">
+<p>Het meeste van de website ga ik laten lijken op de </p>
+
 
 <h2>maandag 16 november</h2>
-<b></b>
-<p></p>
+<b>To do lijst maken</b>
+<p>Vandaag hebben we een todo lijst gemaakt van de volgende sprints om zo meer duidelijkheid te hebben over wat we moeten doen. Daarnaast </p>
 
 <b> </b>
 <p></p>
