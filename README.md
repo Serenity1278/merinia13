@@ -27,7 +27,10 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 
 <h2>maandag 16 november</h2>
 <b>To do lijst maken</b>
-<p>Vandaag hebben we een todo lijst gemaakt van de volgende sprints om zo meer duidelijkheid te hebben over wat we moeten doen. Daarnaast </p>
+<p>Vandaag hebben we een todo lijst gemaakt van de volgende sprints om zo meer duidelijkheid te hebben over wat we moeten doen.</p>
 
-<b> </b>
+
+<b>checkout</b>
+<p>We hebben met een groep een stuk tekst over digital gardens gelezen en besproken over de kern van de tekst en dingen die we mee kunnen nemen voor onze digital garden. We hebben ook verschillende digital gardens bekeken en wat vragen over die gardens beantwoord. Daarna hebben we de websites met elkaar vergelijken om zo de beste en de minder goede(als het gaat om UX/UI) op te schrijven. </p>
+<b></b>
 <p></p>
