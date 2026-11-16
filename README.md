@@ -32,5 +32,14 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 
 <b>checkout</b>
 <p>We hebben met een groep een stuk tekst over digital gardens gelezen en besproken over de kern van de tekst en dingen die we mee kunnen nemen voor onze digital garden. We hebben ook verschillende digital gardens bekeken en wat vragen over die gardens beantwoord. Daarna hebben we de websites met elkaar vergelijken om zo de beste en de minder goede(als het gaat om UX/UI) op te schrijven. </p>
+<b>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</b>
+<p>Een digital garden is iemands eigen plek op het internet om zo meer te delen over zichzelf, op deze website staat alleen wat de maker wil op de website hebben staan. Dit zorgt dat de websites vaak heel creatief zijn en interessante thema's hebben.</p>
+
+<b>Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.</b>
+<p>Dat de layout, kleurcontrast, interactie, animaties, toegankelijkheid, etc. </p>
+<b>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.</b>
+<p>....</p>
+
+
 <b></b>
 <p></p>
