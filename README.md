@@ -40,6 +40,7 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 <b>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.</b>
 <p>....</p>
 
+<h2>dinsdag</h2>
 
 <b></b>
 <p></p>
