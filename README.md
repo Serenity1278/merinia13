@@ -13,7 +13,11 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 
 <h2>Donderdag 12 november 2026</h2>
 <b>Vscodium</b>
-<p>Na VScodium geinstaleert te hebben bleek het 4 seconden te duren totdat ik 1 actie kon uitvoeren, het is mij gelukt om de extentie: "Prettier - Code formatter" te instaleren. Na mijn ouders om hulp gevraagt te hebben bleek het dat ik de verkeerde versie had gedownload en na de juiste varant </p>
+<p>Na VScodium geinstaleert te hebben bleek het 4 seconden te duren totdat ik 1 actie kon uitvoeren, het is mij gelukt om de extentie: "Prettier - Code formatter" te instaleren. Na mijn ouders om hulp gevraagt te hebben bleek het dat ik de verkeerde versie had gedownload en na de juiste variant </p>
+
+
+https://github.com/user-attachments/assets/f7138616-f0e5-4b30-97be-881390009ded
+
 
 <h2>Vrijdag 13 november- checkout</h2>
 <b>Schetsen</b>
@@ -40,7 +44,13 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 <b>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.</b>
 <p>....</p>
 
-<h2>dinsdag</h2>
+<h2>17 november dinsdag</h2>
+<b>light and drak</b>
+<p>
+
+
+
+</p>
 
 <b></b>
 <p></p>
