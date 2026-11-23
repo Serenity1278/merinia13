@@ -45,8 +45,10 @@ https://github.com/user-attachments/assets/f7138616-f0e5-4b30-97be-881390009ded
 <p>....</p>
 
 <h2>17 november dinsdag</h2>
-<b>light and drak</b>
-<p>
+<b>light and dark</b>
+<p> </p>
+
+<img width="1470" height="956" alt="dark en light" src="https://github.com/user-attachments/assets/d15f96d9-bbc3-4d9a-8d2d-4590c7ade075" />
 
 
 
