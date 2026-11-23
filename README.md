@@ -50,6 +50,12 @@ https://github.com/user-attachments/assets/f7138616-f0e5-4b30-97be-881390009ded
 
 <img width="1470" height="956" alt="dark en light" src="https://github.com/user-attachments/assets/d15f96d9-bbc3-4d9a-8d2d-4590c7ade075" />
 
+<h2>maandag 23 november</h2>
+<b>experimenteren met garden: gradient</b>
+<p></p>
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-11-23 om 12 45 39" src="https://github.com/user-attachments/assets/93b9b550-dc1d-4925-a0ca-e69bccfc0408" />
+
+
 
 
 </p>
