@@ -46,15 +46,27 @@ https://github.com/user-attachments/assets/f7138616-f0e5-4b30-97be-881390009ded
 
 <h2>17 november dinsdag</h2>
 <b>light and dark</b>
-<p> </p>
-
+<p> de eerste opdracht van light and dark, ik vond het een relatief makkelijke opdracht sinds ik wel vast liep, maar na wat online kijken zag ik dat ik maar 1 regel nodig had.</p>
 <img width="1470" height="956" alt="dark en light" src="https://github.com/user-attachments/assets/d15f96d9-bbc3-4d9a-8d2d-4590c7ade075" />
+
+<h2>donderdag 19 november </h2>
+<b>gradients opdracht 1</b>
+<p>....
+</p>
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-11-23 om 09 57 46" src="https://github.com/user-attachments/assets/07c506ea-7123-45f0-9621-30313b94a434" />
 
 <h2>maandag 23 november</h2>
 <b>experimenteren met garden: gradient</b>
-<p></p>
+<p>Ik probeerde een achtergrond met een gradient te maken, dus ging ik online kijken en kwam deze </p>
 <img width="1470" height="956" alt="Scherm­afbeelding 2026-11-23 om 12 45 39" src="https://github.com/user-attachments/assets/93b9b550-dc1d-4925-a0ca-e69bccfc0408" />
 
+<h2>checkout</h2>
+<b>Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?</b>
+
+<b>Vertel welke volgende stap je neemt om je website responsive te maken.</b>
+
+<b>Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?</b>
+<p></p>
 
 
 
