@@ -68,6 +68,14 @@ https://github.com/user-attachments/assets/f7138616-f0e5-4b30-97be-881390009ded
 <b>Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?</b>
 <p></p>
 
+<h2>Woensdag 25 november</h2>
+<b>coderen van website</b>
+<p>.....</p>
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-11-25 om 12 21 35" src="https://github.com/user-attachments/assets/d02e7eb3-62b9-4cd4-bc59-e348a690011b" />
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-11-25 om 12 03 29" src="https://github.com/user-attachments/assets/9499023e-21e2-422f-a3a8-d1552910ad77" />
+
+<p> nog een experiment met of de achtergrond wel met </p>
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-11-25 om 12 00 13" src="https://github.com/user-attachments/assets/24149697-ad17-4c10-ae8f-6b085611a2d0" />
 
 
 </p>
