@@ -108,6 +108,10 @@ f<img width="1536" height="2040" alt="WhatsApp Image 2026-11-26 at 23 35 30 (1)"
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 281 380">
 
-    
+<h2>Vrijdag 27 november</h2>
+<b>coderen</b>
+<p> Nadat het mij niet lukte om het bruine blokje los van de grid blokjes te zetten, had ik het vandaag opnieuw geprobeert en had ik het opgelost.
+</p>
+    <img width="1470" height="956" alt="Scherm­afbeelding 2026-11-27 om 09 15 26" src="https://github.com/user-attachments/assets/06fe4fb6-0d73-4d68-88b2-40427e0ca8c7" />
 <b></b>
 <p></p>
