@@ -58,6 +58,7 @@ body {
 **************************/
 
 header {
+  color:black;
 }
 
 /**************************
@@ -65,33 +66,39 @@ header {
 **************************/
 
 footer {
+  color:black;
 }
 
 /**************************
-* MARK: Main
+* MARK: Main 
 **************************/
 
 main{ 
   display: grid;
   grid-template-columns:1fr 1fr 1fr;
   grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
-  
+  gap: 10px;
 }
 /**************************
 * MARK: Section ...
 **************************/
-/*article{
+article{
 padding: 1em;
 background-color:white;
 width:1fr;
-height:100px;
-gap: 10px;
-}*/
-article:nth-of-type(3){
-  color:blue;
-}
-.hhhh{
-  height:100px;
-  width:140px;
+height:5fr;
 
+}
+/*article:nth-of-type(4){
+  color:blue;
+  background-color: brown;
+  position:static
+
+}*/
+
+div{
+
+  padding:1em;
+  margin: top 1fr;
+  background-color:brown ;
 }
