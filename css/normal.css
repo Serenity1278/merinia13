@@ -14,7 +14,20 @@
 **************************/
 
 html {
-  color-scheme: light dark;
+
+  /*color-scheme: light dark;*/
+  /*background: linear-gradient(rgb(236, 241, 255), rgb(29, 32, 205)) no-repeat;
+background-size:cover;*/
+  background: linear-gradient(
+    180deg in oklch,
+    light-dark(oklch(83.71% 0.0701 274.064), oklch(0.32 0.14 275)),
+    light-dark(oklch(56.74% 0.2372 268.785), oklch(15.041% 0.08096 289.15)))fixed center;
+background-repeat: no-repeat;
+background-size:cover;
+
+}
+h1{
+  color:blueviolet;
 }
 
 /**************************
@@ -33,6 +46,11 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
+ 
+  /*background-color:
+  linear-gradient(
+  var(--rgb(187, 187, 215))
+  var(--rgb(6, 6, 135)));*/
 }
 
 /**************************
@@ -53,9 +71,27 @@ footer {
 * MARK: Main
 **************************/
 
-main {
+main{ 
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr;
+  grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+  
 }
-
 /**************************
 * MARK: Section ...
 **************************/
+/*article{
+padding: 1em;
+background-color:white;
+width:1fr;
+height:100px;
+gap: 10px;
+}*/
+article:nth-of-type(3){
+  color:blue;
+}
+.hhhh{
+  height:100px;
+  width:140px;
+
+}
